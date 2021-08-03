@@ -1,0 +1,9 @@
+Steps to create a Python HTTP server for Web Development:
+
+1. Let's create a folder where our index.html, css and js files will be present
+
+2. Now open the powershell window there by right clicking while shifting and choosing "open powershell window here".
+
+3. Now type "python -m http.server" and press enter.
+
+4. Now open the browser and go to "localhost:8000". Done.
